@@ -52,10 +52,6 @@
 
             <hotkey shortcut="PgDn" label="Z-"/>
 
-            <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="" label="blank"/>
         </application>
     </os>
 </Apps>

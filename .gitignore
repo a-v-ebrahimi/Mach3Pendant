@@ -1,2 +1,7 @@
-/projectFilesBackup/.idea/*
+projectFilesBackup/
 /.idea/*
+build/
+app/build/
+.gradle/
+app/release
+app/debug
