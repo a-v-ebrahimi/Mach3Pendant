@@ -4,60 +4,58 @@
         <application name="Mach3 CNC" procname="MACH3.EXE">
 
             <hotkey shortcut="Backquote" label="Reset"/>
-            <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="Alt+R" label="Cycle Start"/>
             <hotkey shortcut="Space" label="Feed Hold"/>
             <hotkey shortcut="Alt+S" label="Stop"/>
 
-            <hotkey shortcut="Forwardslash" label="Feed Reset"/>
-            <hotkey shortcut="F10" label="Feed -"/>
-            <hotkey shortcut="F11" label="Feed +"/>
-            <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="" label="blank"/>
+<!--            <hotkey shortcut="Forwardslash" label="Feed Reset"/>-->
+<!--            <hotkey shortcut="F10" label="Feed -"/>-->
+<!--            <hotkey shortcut="F11" label="Feed +"/>-->
+<!--            <hotkey shortcut="" label="blank"/>-->
 
-            <hotkey shortcut="F5" label="Spindle On/Off"/>
-            <hotkey shortcut="NumPadPlus" label="Spindle +"/>
-            <hotkey shortcut="NumPadMinus" label="Spindle -"/>
-            <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="Ctrl+F" label="Flood Toggle"/>
+<!--            <hotkey shortcut="F5" label="Spindle On/Off"/>-->
+<!--            <hotkey shortcut="NumPadPlus" label="Spindle +"/>-->
+<!--            <hotkey shortcut="NumPadMinus" label="Spindle -"/>-->
+<!--            <hotkey shortcut="Ctrl+F" label="Flood Toggle"/>-->
 
-            <hotkey shortcut="Ctrl+Alt+J" label="Jog ON/OFF"/>
-            <hotkey shortcut="Tab" label="Jog Tab"/>
-            <hotkey shortcut="Ctrl+J" label="Jog Mode"/>
-            <hotkey shortcut="Alt+J" label="Jog Step"/>
-            <hotkey shortcut="" label="blank"/>
+<!--            <hotkey shortcut="Ctrl+Alt+J" label="Jog ON/OFF"/>-->
+<!--            <hotkey shortcut="Tab" label="Jog Tab"/>-->
+<!--            <hotkey shortcut="Ctrl+J" label="Jog Mode"/>-->
+<!--            <hotkey shortcut="Alt+J" label="Jog Step"/>-->
 
             <hotkey shortcut="Home" label="Home"/>
-            <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="Ctrl+X+0" label="X Zero"/>
             <hotkey shortcut="Ctrl+Y+0" label="Y Zero"/>
             <hotkey shortcut="Ctrl+Z+0" label="Z Zero"/>
 
+            <hotkey shortcut="PgUp" label="Z+"/>
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="" label="blank"/>
+
 
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="Up" label="Y+"/>
             <hotkey shortcut="" label="blank"/>
-            <hotkey shortcut="PgUp" label="Z+"/>
 
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="Left" label="X-"/>
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="Right" label="X+"/>
-            <hotkey shortcut="" label="blank"/>
 
 
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="" label="blank"/>
             <hotkey shortcut="Down" label="Y-"/>
             <hotkey shortcut="" label="blank"/>
+
             <hotkey shortcut="PgDn" label="Z-"/>
 
+            <hotkey shortcut="" label="blank"/>
+            <hotkey shortcut="" label="blank"/>
+            <hotkey shortcut="" label="blank"/>
+            <hotkey shortcut="" label="blank"/>
         </application>
     </os>
 </Apps>

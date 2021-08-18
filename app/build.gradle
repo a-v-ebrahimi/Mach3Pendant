@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.1"
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
 
     defaultConfig {
         applicationId "gr.ratmole.android.Mach3Pendant"
-        minSdkVersion 14
-        targetSdkVersion 14
+        minSdkVersion 22
+        targetSdkVersion 30
     }
 
     buildTypes {
@@ -24,6 +24,6 @@ android {
 }
 
 dependencies {
-    compile 'com.esotericsoftware:kryonet:2.22.0-RC1'
-    compile 'com.android.support:support-v4:23.0.1'
+    implementation 'com.esotericsoftware:kryonet:2.22.0-RC1'
+    implementation 'com.android.support:support-v4:23.0.1'
 }

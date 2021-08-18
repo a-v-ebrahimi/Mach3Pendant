@@ -7,14 +7,13 @@
     <TextView
             android:id="@+id/hotkey_label"
             android:layout_width="fill_parent"
-            android:layout_height="70dip"
+            android:layout_height="80sp"
             android:duplicateParentState="true"
             android:gravity="left|bottom"
             android:paddingLeft="7dp"
-            android:paddingBottom="4dp"
             android:text="label"
             android:textColor="@color/text_color"
-            android:textSize="18sp"
+            android:textSize="21sp"
             android:typeface="sans"/>
     <View
             android:layout_width="fill_parent"

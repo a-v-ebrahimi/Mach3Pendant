@@ -11,7 +11,7 @@
         \n\n
         3. Restart Mach3Pendant and wait until it connects your computer automatically.
     </string>
-    <string name="auto_connecting">Connecting...</string>
+    <string name="auto_connecting">Connecting…</string>
 
     <!--Actually it's a spent time-->
     <string name="version">1.05</string>

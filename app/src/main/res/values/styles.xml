@@ -53,14 +53,14 @@
         <item name="android:ellipsize">marquee</item>
     </style>
 
-    <style name="ActionBarCompatTitle" parent="style/ActionBarCompatTitleBase">
+    <style name="ActionBarCompatTitle" >
         <item name="android:textColor">@color/actionbar_title_color</item>
     </style>
 
-    <style name="ActionBarCompatItem" parent="style/ActionBarCompatItemBase">
+    <style name="ActionBarCompatItem" >
     </style>
 
-    <style name="ActionBarCompatHomeItem" parent="style/ActionBarCompatItemBase">
+    <style name="ActionBarCompatHomeItem" >
     </style>
 
     <style name="largeText">

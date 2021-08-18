@@ -109,7 +109,12 @@ public class ConnectionController extends Fragment {
     }
 
     private void abSetRefresh(boolean refresh) {
-        ActionBarHelper abHelper = ((ActionBarActivity) getActivity()).getActionBarHelper();
+        ActionBarHelper abHelper;
+        try {
+            abHelper = ((ActionBarActivity) getActivity()).getActionBarHelper();
+        } finally {
+
+        }
         if (abHelper != null) {
             abHelper.setRefreshActionItemState(refresh);
         }
